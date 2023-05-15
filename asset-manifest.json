@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.db1027af.css",
-    "main.js": "/static/js/main.c46e9d48.js",
-    "static/js/787.6088a729.chunk.js": "/static/js/787.6088a729.chunk.js",
-    "static/media/bg.jpg": "/static/media/bg.e8edfeadca5c618b93f1.jpg",
-    "static/media/sheep.png": "/static/media/sheep.ba861206061d91866c36.png",
-    "index.html": "/index.html",
-    "main.db1027af.css.map": "/static/css/main.db1027af.css.map",
-    "main.c46e9d48.js.map": "/static/js/main.c46e9d48.js.map",
-    "787.6088a729.chunk.js.map": "/static/js/787.6088a729.chunk.js.map"
+    "main.css": "/apple-project/static/css/main.196bf214.css",
+    "main.js": "/apple-project/static/js/main.93714910.js",
+    "static/js/787.6088a729.chunk.js": "/apple-project/static/js/787.6088a729.chunk.js",
+    "static/media/bg.jpg": "/apple-project/static/media/bg.e8edfeadca5c618b93f1.jpg",
+    "static/media/sheep.png": "/apple-project/static/media/sheep.ba861206061d91866c36.png",
+    "index.html": "/apple-project/index.html",
+    "main.196bf214.css.map": "/apple-project/static/css/main.196bf214.css.map",
+    "main.93714910.js.map": "/apple-project/static/js/main.93714910.js.map",
+    "787.6088a729.chunk.js.map": "/apple-project/static/js/787.6088a729.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db1027af.css",
-    "static/js/main.c46e9d48.js"
+    "static/css/main.196bf214.css",
+    "static/js/main.93714910.js"
   ]
 }
